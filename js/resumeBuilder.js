@@ -17,7 +17,8 @@ This is empty on purpose! Your code to build the resume will go here.
  		"location"			: "Orland Park, IL"
  	},
  	"picture_URL"		: "images/me.jpg", // http://s20.postimg.org/5bsahyg55/cassia_7.jpg",
- 	"welcome_msg" 		: "Welcome to my resume",
+ 	"welcome_msg" 		: "Data Warehouse Analyst with 7+ of experience in Data Modeling, processing data to generate reports. \
+ 						   I’m looking for a position I can apply my experience to empower the decision making process.",
  	"skills"			: ["Data Quality Assurance, ETL, Dimensional Modeling",
 						   "Project Management - Planning and managing a team, quality control, timelines/milestones",
 						   "Microsoft Visual Basic, PL/SQL, SQL",
